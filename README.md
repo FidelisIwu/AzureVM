@@ -1,4 +1,4 @@
-Azure Honeynet Project
+Azure Honeynet Project (VM setup)
 
 
 ### To kick off the Azure Honeynet project, I will first set up the virtual machines (VMs) I'll use. Here are the steps I'll take in Microsoft Azure:
